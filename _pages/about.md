@@ -3,6 +3,8 @@ permalink: /about/
 title: "About Me"
 ---
 
-Senior social scientist with expertise translating human behavior and market trends into strategic
-insights that drive innovation across products, services, and experiences. Applies mixed-method
-human-centered research to guide decision-making in complex, multi-stakeholder environments.
+Human behavior is rarely rational, yet it's always patterned. 
+I'm a behavioral scientist who uncovers those patterns and turns them into practical strategies that improve products, experiences, and outcomes. 
+My work blend qualitative depth with quantitative rigor to create impact where it matters most.
+
+Check out some of my most recent projects below.
