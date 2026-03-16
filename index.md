@@ -8,6 +8,6 @@ author_profile: true
 
 *Human behavior is rarely rational, yet it's always patterned.*
 
-I'm a behavioral scientist who uncovers those patterns and turns them into practical strategies that improve products, experiences, and outcomes. My work blend qualitative depth with quantitative rigor to create impact where it matters most.
+I'm a behavioral scientist who uncovers those patterns and turns them into practical strategies that improve products, experiences, and outcomes. My work blends qualitative depth with quantitative rigor to create impact where it matters most.
 
 Feel free to poke around and check out some of my most recent projects.
