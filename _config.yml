@@ -60,10 +60,13 @@ plugins:
 author:
   name   : "Leilah Harouni"
   avatar : "/assets/images/portrait.png"
-  bio    : "Behavioral Scientist | Mixed Methods Researcher | 8+ Years Experience"
+  bio    : "Senior behavioral scientist that specializes in mixed-methods research. 8+ years experience."
   links:
     - label: "LinkedIn"
       icon: "fas fa-fw fa-link"
+      url: "https://linkedin.com/in/leilah-harouni"
+    - label: "LinkedIn"
+      icon: "fa-brands fa-linkedin"
       url: "https://linkedin.com/in/leilah-harouni"
 #    - label: "Twitter"
 #      icon: "fab fa-fw fa-twitter-square"
