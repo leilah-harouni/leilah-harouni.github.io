@@ -62,9 +62,9 @@ author:
   avatar : "/assets/images/portrait.png"
   bio    : "Senior behavioral scientist that specializes in mixed-methods research. 8+ years experience."
   links:
-    - label: "LinkedIn"
-      icon: "fas fa-fw fa-link"
-      url: "https://linkedin.com/in/leilah-harouni"
+#    - label: "LinkedIn"
+#      icon: "fas fa-fw fa-link"
+#      url: "https://linkedin.com/in/leilah-harouni"
     - label: "LinkedIn"
       icon: "fa-brands fa-linkedin"
       url: "https://linkedin.com/in/leilah-harouni"
