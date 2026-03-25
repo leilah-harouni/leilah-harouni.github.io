@@ -1,7 +1,6 @@
 ---
 permalink: /projects/
 title: "Projects"
-layout: page
 ---
 
 - Project 1
