@@ -22,27 +22,18 @@ To get to the bottom of this question, I led a mixed-methods research initiative
 - Translated insights into a tangible, testable model aimed at reducing health system biases towards early-career nurses
 
 #### What I Found
-1. Experience is a proxy, not a predictor
-
-   Nurse leaders rely heavily on experience to reduce uncertainty, but it poorly signals long term success.
-4. The definition of a "good nurse" has evolved
-   XXXXX
-5. Turnover isn't a people problem, it's a system design flaw
-      Misaligned expectations and weak onboarding drive early exits.
-6. Hiring practices unintentionally increase risk
-      Rigid filters exclude candidates who could succeed with the right support.
-8. Uncertainty, not capability, is the real barrier
-      When organizations can observe performance over time, confidence increases.
-
-
 1. Experience is a proxy, not a predictor.
 
- Nurse leaders rely heavily on experience to reduce uncertainty, but it poorly signals long term success..
- You can add more lines like this.
-
+   Nurse leaders rely heavily on experience to reduce uncertainty, but it poorly signals long term success.
 2. Turnover isn't a people problem, it's a system design flaw.
-  
 
+   Misaligned expectations and weak onboarding drive early exits.
+3. Hiring practices unintentionally increase risk
+
+   Rigid filters exclude candidates who could succeed with the right support.
+4. Uncertainty, not capability, is the real barrier
+
+   When organizations can observe performance over time, confidence increases.
 
 #### The Shift
 Instead of asking, "Is this candidate ready?" I reframed the problem to, “How might we reduce uncertainty enough to make early-career hiring feel safe?”
