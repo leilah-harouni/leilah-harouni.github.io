@@ -35,14 +35,23 @@ To get to the bottom of this question, I led a mixed-methods research initiative
 
    When organizations can observe performance over time, confidence increases.
 
--
 
 #### The Shift
-Instead of asking, "Is this candidate ready?" I reframed the problem to, “How might we reduce uncertainty enough to make early-career hiring feel safe?”
+So now that we know nurse leaders value experience as early-career nurse value fit, where do we go from here? The key in determining next steps is to shift the focus from being "Is this candidate ready?" to "How might we reduce uncertainty enough to make hiring feel safe to both parties?"
 
-From here, I was able to design a 
+Based on what is known to work well with other organizations across industries hiring practices, I designed a low-risk, scalable nurse enablement model that:
+- Extends fit evaluations in real world settings
+- Reduce upfront hiring risks for organizations
+- Creates structured pathways for early-career nurses to prove capability 
 
-How providing a 10-week internship + a year long apprenticeship can determine fit, experience,  and increase retention
+To operationalize these insights, I co-developed a two-stage nurse enablement model: a 10-week internship that allows student nurses to assess fit in real-world settings, followed by a year-long apprenticeship that enables organizations to evaluate performance over time.
+
+This model reframes early-career hiring as a continuous evaluation system rather than a binary decision, reducing perceived risk while increasing retention and workforce resilience.
+
+> The result is a more sustainable talent pipeline; one that enables health systems to hire earlier, invest smarter, and build teams equipped for the evolving demands of care delivery.
+
+Explore how this model comes to life in practice:
+https://www.unitedhealthgroup.com/careers/en/work/early-careers/clinical.html
 
 
 [← Back to Projects](/projects/)
