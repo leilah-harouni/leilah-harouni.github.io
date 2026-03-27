@@ -9,27 +9,34 @@ I led a mixed-methods research initiative to understand the challenges surroundi
 
 This research explores how organizations can better support and enable early-career nurses as they transition into the healthcare workforce.  
 
-**The Problem**
-Healthcare organizations are bracing for mass nurse retirements, yet hesitate to hire the very talent meant to replace them. Early career nurses are deemed *"high-risk"*: costly to training, slow to ramp, and likely to leave. For that reason, health systems default to what feels safe: **Hire experience; avoid risk.** But that "safe" choice is quietly fueling a national shortage of nurses in the healthcare field. 
+#### The Problem
+Healthcare organizations are bracing for mass nurse retirements, yet hesitate to hire the very talent meant to replace them. Early career nurses are deemed *"high-risk"*: costly to training, slow to ramp, and likely to leave. For that reason, health systems default to what feels safe: hire experience; avoid risk. But that "safe" choice is quietly fueling a national shortage of nurses in the healthcare field. 
 
 This begs the question: What if early-career nurses aren't the risk, but the hiring system itself is?
 
-**How I Approach It**
-I led a mixed-methods research initiative to unpack how early-career nurse readiness, fit, and success are actually defined across health systems, and where those definitions break down. I combined behavioral science with real-world constraints to get a full-system view:
+#### How I Approach It
+To find an answer to this question, I led a mixed-methods research initiative to unpack how nurse readiness, fit, and success are actually defined across health systems, and where those definitions break down. I combined behavioral science with real-world constraints to get a full-system view:
 - Interviewed nurse leaders, managers, and trainers to uncover their decision-making logic when it comes to new nurse hirings
 - Surveyed student and early-career nurses to quantify their perceived barriers to access professional roles within the industry
-- Synthesized literature + field insights to validate findings
-- Translated insights into a tangible, testable model
+- Synthesized literature + field insights to cross-validate findings
+- Translated insights into a tangible, testable model aimed at reducing health system biases against early-career nurses
 
-**What I Found**
-1. Experience is a proxy, not a predictor
-2. The definition of a "good nurse" has evolved
-3. Turnover isn't a people problem, it's a system design flaw
-4. Hiring practices unintentionally increase risk
-5. Uncertainty, not capability, is the real barrier
+#### What I Found
+**1. Experience is a proxy, not a predictor**
+   Nurse leaders rely heavily on experience to reduce uncertainty, but it poorly signals long term success.
+**2. The definition of a "good nurse" has evolved**
+   XXXXX
+**3. Turnover isn't a people problem, it's a system design flaw**
+   Misaligned expectations and weak onboarding drive early exits.
+**4. Hiring practices unintentionally increase risk**
+   Rigid filters exclude candidates who could succeed with the right support.
+**5. Uncertainty, not capability, is the real barrier**
+   When organizations can observe performance over time, confidence increases.
 
-**The Shift**
-Instead of asking, "Is this candidate ready?"
-I reframed the problem to, "
+#### The Shift
+Instead of asking, "Is this candidate ready?" I reframed the problem to, “How might we reduce uncertainty enough to make early-career hiring feel safe?”
+
+From here, I was able to design a 
+
 
 [← Back to Projects](/projects/)
