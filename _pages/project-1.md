@@ -8,7 +8,6 @@ title: "Enabling the Next Generation of Nurses"
 I led a mixed-methods research initiative to understand the challenges surrounding the hiring and retention of early-career nurses. Using these insights, I designed a low-risk, scalable nurse enablement model to encourage the recruitment of new professionals in this field.
 
 This research explores how organizations can better support and enable early-career nurses as they transition into the healthcare workforce.  
--
 
 #### The Problem
 Healthcare organizations are bracing for mass nurse retirements, yet hesitate to hire the very talent meant to replace them. Health systems deem early-career nurses as *"high-risk"*: costly to training, slow to ramp, and likely to leave. For that reason, health systems default to what feels safe: hire experience, avoid risk. But that "safe" choice is quietly fueling a national shortage of nurses in the healthcare field. 
@@ -35,6 +34,12 @@ To get to the bottom of this question, I led a mixed-methods research initiative
 4. Uncertainty, not capability, is the real barrier
 
    When organizations can observe performance over time, confidence increases.
+
+
+1. Experience is a proxy, not a predictor.
+   Nurse leaders rely heavily on experience to reduce uncertainty, but it poorly signals long term success.
+3. Turnover isn't a people problem, it's a system design flaw.
+   Misaligned expectations and weak onboarding drive early exits.
 
 #### The Shift
 Instead of asking, "Is this candidate ready?" I reframed the problem to, “How might we reduce uncertainty enough to make early-career hiring feel safe?”
