@@ -8,6 +8,7 @@ title: "Enabling the Next Generation of Nurses"
 I led a mixed-methods research initiative to understand the challenges surrounding the hiring and retention of early-career nurses. Using these insights, I designed a low-risk, scalable nurse enablement model to encourage the recruitment of new professionals in this field.
 
 This research explores how organizations can better support and enable early-career nurses as they transition into the healthcare workforce.  
+-
 
 #### The Problem
 Healthcare organizations are bracing for mass nurse retirements, yet hesitate to hire the very talent meant to replace them. Health systems deem early-career nurses as *"high-risk"*: costly to training, slow to ramp, and likely to leave. For that reason, health systems default to what feels safe: hire experience, avoid risk. But that "safe" choice is quietly fueling a national shortage of nurses in the healthcare field. 
