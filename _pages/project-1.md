@@ -35,11 +35,7 @@ To get to the bottom of this question, I led a mixed-methods research initiative
 
    When organizations can observe performance over time, confidence increases.
 
-
-1. Experience is a proxy, not a predictor.
-   Nurse leaders rely heavily on experience to reduce uncertainty, but it poorly signals long term success.
-3. Turnover isn't a people problem, it's a system design flaw.
-   Misaligned expectations and weak onboarding drive early exits.
+-
 
 #### The Shift
 Instead of asking, "Is this candidate ready?" I reframed the problem to, “How might we reduce uncertainty enough to make early-career hiring feel safe?”
