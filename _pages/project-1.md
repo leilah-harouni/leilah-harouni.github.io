@@ -15,15 +15,15 @@ Healthcare organizations are bracing for mass nurse retirements, yet hesitate to
 > This begs the question: What if early-career nurses aren't the risk, but the hiring system itself is?
 
 #### How I Approach It
-To find an answer to this question, I led a mixed-methods research initiative to unpack how nurse readiness, fit, and success are actually defined across health systems, and where those definitions break down. I combined behavioral science with real-world constraints to get a full-system view:
+To get to the bottom of this question, I led a mixed-methods research initiative to unpack how nurse readiness, fit, and success are actually defined across health systems, and where those definitions break down. I combined behavioral science with real-world constraints to get a full-system view:
 - Interviewed nurse leaders, managers, and trainers to uncover their decision-making logic when it comes to new nurse hirings
 - Surveyed student and early-career nurses to quantify their perceived barriers to access professional roles within the industry
 - Synthesized literature + field insights to cross-validate findings
-- Translated insights into a tangible, testable model aimed at reducing health system biases against early-career nurses
+- Translated insights into a tangible, testable model aimed at reducing health system biases towards early-career nurses
 
 #### What I Found
 1. Experience is a proxy, not a predictor
-         - Nurse leaders rely heavily on experience to reduce uncertainty, but it poorly signals long term success.
+   <b> Nurse leaders rely heavily on experience to reduce uncertainty, but it poorly signals long term success.
 3. The definition of a "good nurse" has evolved
          - XXXXX
 5. Turnover isn't a people problem, it's a system design flaw
