@@ -51,7 +51,7 @@ This model reframes early-career hiring as a continuous evaluation system rather
 > The result is a more sustainable talent pipeline; one that enables health systems to hire earlier, invest smarter, and build teams equipped for the evolving demands of care delivery.
 
 Explore how this model comes to life in practice:
-https://www.unitedhealthgroup.com/careers/en/work/early-careers/clinical.html
+<https://www.unitedhealthgroup.com/careers/en/work/early-careers/clinical.html> 
 
 
 [← Back to Projects](/projects/)
